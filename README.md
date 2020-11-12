@@ -1,4 +1,4 @@
-# YOLO Dataset Toolkit
+# YOLO Dataset Toolkit :fork_and_knife:
 
 Small toolkit to analyze, check and generate train/test files from YOLO formatted dataset.
 
